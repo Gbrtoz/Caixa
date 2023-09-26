@@ -19,7 +19,7 @@ Teste 1 - Verificação do codigo para reallizar um Teste de Caixa Branca, confo
     </li>
     <li>A ARQUITETURA UTILIZADA FOI DEVIDAMENTE RESPEITADA?
     <p></p>
-    </li>
+    </li>Sim
     <li>AS CONEXÕES UTILIZADAS FORAM FECHADAS?
     <p>Não há fechamento nas conexões.</p>
     </li>
