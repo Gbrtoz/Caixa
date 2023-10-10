@@ -19,7 +19,7 @@ Teste 1 - Verificação do codigo para reallizar um Teste de Caixa Branca, confo
     </li>
     <li>A ARQUITETURA UTILIZADA FOI DEVIDAMENTE RESPEITADA?
     <p></p>
-    </li>Sim
+    </li>Não
     <li>AS CONEXÕES UTILIZADAS FORAM FECHADAS?
     <p>Não há fechamento nas conexões.</p>
     </li>
@@ -27,3 +27,21 @@ Teste 1 - Verificação do codigo para reallizar um Teste de Caixa Branca, confo
 
 # Exercício individual -  Critérios de Caixa Branca (ETAPA 2) - (Grafo de Fluxo; Complexidade Ciclomática; Base de Caminhos)
 
+# Código:
+
+<img src='teste.png'>
+
+## Grafo de Fluxo
+
+<img src='fluxo.png'>
+
+# Complexidade Ciclomática
+
+V(G) = 11 - 10 + 3 = 4. >>> V(G) = 3 + 1 = 4.
+
+#  Sequencia dos Caminhos
+
+<ol>
+    <li>Entrada >>> Conectar BD >>> URL >>> Tentativa de conexão >>> FIM</li>
+    <li>Entrada >>> >>> verifica user >>> Início >>>  Instrução SQL >>> Consulta >>> Verificação >>> Obter dados >>> Retorno da função >> FIM</li>
+</ol>
