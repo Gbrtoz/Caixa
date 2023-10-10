@@ -24,3 +24,6 @@ Teste 1 - Verificação do codigo para reallizar um Teste de Caixa Branca, confo
     <p>Não há fechamento nas conexões.</p>
     </li>
 </ol>
+
+# Exercício individual -  Critérios de Caixa Branca (ETAPA 2) - (Grafo de Fluxo; Complexidade Ciclomática; Base de Caminhos)
+
